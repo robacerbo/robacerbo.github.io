@@ -22,13 +22,16 @@
 
 <h2 align="left">My Project : </h2>
 
-<h3 align="left">Barber Shop</h2>
+<h3 align="left">Barber Shop</h3>
 -<a href="https://github.com/robacerbo/project-Barber-Shop" target="__blank"> Project Barber Shop  </a> - Realizzazione di sito web responsive per attività commerciale di Parrucchiere. Linguaggi utilizzati HTML, CSS, JS, PHP and framework Laravel (da terminare).
 
+<h3 align="left">Project White</h3>
 <br>-<a href="https://github.com/robacerbo/project_white" target="__blank"> Project White </a> - Realizzazione di una landing page responsive con tema white. Linguaggi utilizzati HTML e CSS (da terminare).
 
+<h3 align="left">Project Black</h3>
 <br>-<a href="https://github.com/robacerbo/project_black" target="__blank"> Project Black </a> - Realizzazione di una landing page responsive con tema black. Linguaggi utilizzati HTML e CSS.
 
+<h3 align="left">Project Red</h3>
 <br>-<a href="https://github.com/robacerbo/project_red" target="__blank"> Project Red </a> - Realizzazione di una landing page responsive con tema red per settori Viaggi e Turismo. Linguaggi utilizzati HTML e CSS
 
 
