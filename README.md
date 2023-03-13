@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Astromarket and Barber Shop project**
 
-- 🌱 I’m currently learning from Aulab Hackademy Coding Bootcamp **Front-end & Back-end languages based on Object Oriented programming and with Agile Scrum methodologies.**
+- 🌱 I’m currently learning from Aulab Hackademy Coding Bootcamp **Front-end & Back-end languages based on Object Oriented programming with Agile Scrum methodologies.**
 
 - 👨‍💻 All of my projects are available at https://robacerbo.github.io/
 
