@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
-- 🔭 I’m currently working on **Astromarket and Barber Shop project**
+- 🔭 I’m currently working on **Barber Shop project**
 
 - 🌱 I’m currently learning from Aulab Hackademy Coding Bootcamp **Front-end & Back-end languages based on Object Oriented programming with Agile Scrum methodologies.**
 
@@ -22,8 +22,11 @@
 
 <h2 align="left">My Project : </h2>
 
+<h3 align="left">Presto.it</h3>
+-<a href="https://github.com/robacerbo/Presto.it_Hack66" target="__blank"> Project Presto.it  </a> - Progetto finale Aulab Hackademy - Presto.it è un portale di annunci moderno e minimalista, con un design completamente reattivo. Il sito è stato sviluppato utilizzando tecnologie all’avanguardia come PHP, Laravel, Livewire, CSS, JS e Bootstrap per offrire un’esperienza utente fluida e intuitiva. Grazie all’utilizzo di questi strumenti, Presto.it è in grado di fornire un’esperienza utente di alta qualità su qualsiasi dispositivo.
+
 <h3 align="left">Astromarket</h3>
--<a href="https://github.com/robacerbo/Project-Astromarket" target="__blank"> Project Astromarket  </a> - Progetto finale Aulab Hackademy - In corso di realizzazione di un portale di annunci per compravendita di oggetti nuovi ed usati. Linguaggi utilizzati HTML, CSS, JS, PHP and framework Laravel (da terminare).
+-<a href="https://github.com/robacerbo/Project-Astromarket" target="__blank"> Project Astromarket  </a> - Progetto in corso di realizzazione di un portale di annunci per compravendita di oggetti nuovi ed usati. Linguaggi utilizzati HTML, CSS, JS, PHP and framework Laravel (da terminare).
 
 <h3 align="left">Barber Shop</h3>
 -<a href="https://github.com/robacerbo/project-Barber-Shop" target="__blank"> Project Barber Shop  </a> - Realizzazione di sito web responsive per attività commerciale di Parrucchiere. Linguaggi utilizzati HTML, CSS, JS, PHP and framework Laravel (da terminare).
