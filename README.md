@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
+- 🔭 Just finished the project **Presto.it**, have a look here -> https://github.com/robacerbo/Presto.it_Hack66 
+
 - 🔭 I’m currently working on **Barber Shop project**
 
 - 🌱 I’m currently learning from Aulab Hackademy Coding Bootcamp **Front-end & Back-end languages based on Object Oriented programming with Agile Scrum methodologies.**
