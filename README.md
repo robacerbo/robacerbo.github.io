@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
+- 🔭 I've got the Full Stack Web Developer Certificate -> https://www.credential.net/395704cb-f5ef-478e-8faa-8a8a95279f91#gs.vu5gn7
+
 - 🔭 Just finished the project **Presto.it**, have a look here -> https://github.com/robacerbo/Presto.it_Hack66 
 
-- 🔭 I’m currently working on **Barber Shop project**
-
-- 🌱 I’m currently learning from Aulab Hackademy Coding Bootcamp **Front-end & Back-end languages based on Object Oriented programming with Agile Scrum methodologies.**
+- 🌱 I’m currently learning from Udemy -> Javascript - React - Wordpress
 
 - 👨‍💻 All of my projects are available at https://robacerbo.github.io/
 
