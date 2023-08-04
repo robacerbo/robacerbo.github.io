@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
+- 🔭 I've got the Wordpress Course Certificate -> https://www.udemy.com/certificate/UC-ecc86036-4032-4bdc-bc6a-171799246215/
+
 - 🔭 I've got the Full Stack Web Developer Certificate -> https://www.credential.net/395704cb-f5ef-478e-8faa-8a8a95279f91#gs.vu5gn7
 
-- 🔭 Just finished the project **Presto.it**, have a look here -> https://github.com/robacerbo/Presto.it_Hack66 
-
-- 🌱 I’m currently learning from Udemy -> Javascript - React - Wordpress
+- 🔭 Project **Presto.it**, have a look here -> https://github.com/robacerbo/Presto.it_Hack66 
 
 - 👨‍💻 All of my projects are available at https://robacerbo.github.io/
 
