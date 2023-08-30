@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
+- 👨‍💻 My latest published works:
+    - Automotive Landing Page - https://promo.city-rent.it/noleggio-lungo-termine-autoriparatori/
+    - NCC Landing Page - https://promo.city-rent.it/noleggio-lungo-termine-ncc/
+    - TAXI Landing Page - https://promo.city-rent.it/noleggio-lungo-termine-taxi/  
+
 - 🔭 I've got the Wordpress Course Certificate -> https://www.udemy.com/certificate/UC-ecc86036-4032-4bdc-bc6a-171799246215/
 
 - 🔭 I've got the Full Stack Web Developer Certificate -> https://www.credential.net/395704cb-f5ef-478e-8faa-8a8a95279f91#gs.vu5gn7
